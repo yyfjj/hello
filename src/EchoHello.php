@@ -12,6 +12,6 @@ class EchoHello
 {
     public static function say()
     {
-        echo 'hello';
+        echo 'hello test';
     }
 }
